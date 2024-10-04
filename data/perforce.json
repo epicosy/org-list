@@ -1,0 +1,10 @@
+{
+    "id": "perforce",
+    "name": "Perforce (formerly Puppet)",
+    "products": "https://www.perforce.com/products",
+    "open_source": {
+        "github": "perforce"
+    },
+    "advisories": "https://portal.perforce.com/s/cve-dashboard",
+    "website": "https://www.perforce.com/"
+}

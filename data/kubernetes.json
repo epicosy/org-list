@@ -1,0 +1,9 @@
+{
+    "id": "kubernetes",
+    "name": "Kubernetes",
+    "open_source": {
+        "github": "kubernetes"
+    },
+    "website": "https://kubernetes.io/",
+    "advisories": "https://kubernetes.io/docs/reference/issues-security/official-cve-feed/"
+}
